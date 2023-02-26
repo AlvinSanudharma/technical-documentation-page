@@ -124,6 +124,8 @@ article code {
   border-radius: 6px;
   color: #181823;
   line-height: 2;
+  white-space: pre-line;
+  text-align: left;
 }
 
 @media (max-width: 360px) {
